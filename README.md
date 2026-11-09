@@ -34,7 +34,7 @@ The solution file implements 8 problems covering core TypeScript fundamentals an
 
 As part of the assignment blog task, two technical blog posts (150–300 words each) have been written:
 
-1. 📄 **[Type Aliases vs Interfaces in TypeScript](./type-vs-interface.md)**  
+1. 📄 **[Type Aliases vs Interfaces in TypeScript](./type_vs_interface_in_typescript.md)**  
    *Covers structural distinctions, declaration merging, union capabilities, and decision criteria for choosing between `type` and `interface`.*
 
 2. 📄 **[Type Union and Intersecrion in TypeScript](./union_and_intersection_types_in_typescript.md)**  
